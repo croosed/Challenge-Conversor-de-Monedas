@@ -30,7 +30,8 @@ La aplicación es una herramienta de consola que permite realizar las siguientes
 
 1.  **Clonar el repositorio:**
     ```bash
- 
+    git clone https://github.com/croosed/Challenge-Conversor-de-Monedas.git
+    cd Challenge-Conversor-de-Monedas
     ```
 
 2.  **Compilar el proyecto:**
